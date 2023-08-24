@@ -9,9 +9,7 @@ Github Link: https://github.com/samuelmui8/transform
 - [x] Fitness Tracker
 - [x] Achievements
 - [x] Social Aspects (includes Search and Leaderboard)
-- [ ] Nutrition Tracker
-- [ ] Calender
-- [ ] Widgets
+- [x] Calender
 
 ## Getting Started
 1. Install the current LTS version of Node.js. The current version (usually the version one greater than the current LTS) may also work, but if you encounter issues, use v18.16.0
