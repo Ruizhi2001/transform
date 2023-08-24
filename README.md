@@ -1,6 +1,5 @@
 # ⚡Transform⚡
-Transform is a NUS orbital project that aims to improve the productivity of students. (_Apollo 11_)
-Github Link: https://github.com/samuelmui8/transform
+Transform is a NUS orbital project that aims to improve the productivity of students. (_Gemini_)
 
 ## Features
 - [x] Login and Authentication
