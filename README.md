@@ -1,5 +1,5 @@
 # ⚡Transform⚡
-Transform is a NUS orbital project that aims to improve the productivity of students. (_Gemini_)
+Transform is a project that aims to improve the productivity of students. (_Gemini_)
 
 ## Features
 - [x] Login and Authentication
