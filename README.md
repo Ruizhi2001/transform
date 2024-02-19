@@ -1,5 +1,5 @@
 # ⚡Transform⚡
-Transform is a project that aims to improve the productivity of students. (_Gemini_)
+Transform is a project that aims to improve the productivity of students.
 
 ## Features
 - [x] Login and Authentication
