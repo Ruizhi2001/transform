@@ -19,5 +19,5 @@ Transform is a project that aims to improve the productivity of students.
 1. Run `npx eas build -p android --profile preview`
 
 ### To try out our app
-1. Download the apk from https://drive.google.com/file/d/18t3s_SJxAPk8smI6X2WL7aIRZurxjjh_/view?usp=drive_link
+1. [Download](https://drive.google.com/file/d/18t3s_SJxAPk8smI6X2WL7aIRZurxjjh_/view?usp=drive_link) the apk
 2. Install it onto your android device and open the application
