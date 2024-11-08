@@ -11,7 +11,7 @@ Transform is a project that aims to improve the productivity of students.
 - [x] Calender
 
 ## Quick Start
-1. [Download](https://drive.google.com/file/d/18t3s_SJxAPk8smI6X2WL7aIRZurxjjh_/view?usp=drive_link) the apk
+1. [Download](https://github.com/Ruizhi2001/transform/releases/download/Latest/milestone3Transform.apk) the apk
 2. Install it onto your android device and open the application
 
 ## Getting Started
